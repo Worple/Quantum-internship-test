@@ -1,0 +1,34 @@
+To run NER_Mountains_demo.ipynb following libraries are required:
+	re
+	pandas
+	numpy
+	sklearn
+	torch
+	seqeval
+	transformers
+
+
+To run NER_Mountains_inference.py:
+	transformers
+
+
+To run NER_Mountains_train:
+	re
+	pandas
+	numpy
+	sklearn
+	torch
+	seqeval
+	transformers
+
+
+To run dataset_creation-fin.ipynb:
+	libraries:
+		pandas
+		re
+		termcolor
+		IPython.display
+		random
+	files:
+		raw_set_GPT.csv
+		NER_Kaggle.csv
